@@ -3,7 +3,7 @@ A repository for the test cases on YouTube Music
 
 Tool used: Selenium 4.6.0
 
-Dependencies:
+Jar files dependencies:
     Cucumber-core
     Cucumber-html
     cobertura code coverage
@@ -14,3 +14,5 @@ Dependencies:
     Hamcrest-core
     Gherkin
     Junit
+
+The files can be downloaded from https://mvnrepository.com/search?q=Cucumber
